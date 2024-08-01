@@ -29,7 +29,7 @@ const Input: React.FC<InputProps> = ({
 
   return (
     <View
-      testID="animatedView"
+      testID="parent"
       style={{
         pointerEvents: disabled ? 'none' : 'auto',
       }}

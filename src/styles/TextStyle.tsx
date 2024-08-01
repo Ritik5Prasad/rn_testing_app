@@ -16,7 +16,7 @@ const TextStyle = StyleSheet.create({
     fontFamily: FONTS.SemiBold,
   },
   mediumText: {
-    color: Colors.text,
+    color: Colors.white,
     fontSize: RFValue(12),
     fontFamily: FONTS.SemiBold,
   },

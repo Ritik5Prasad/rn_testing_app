@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native'
+import {  Text } from 'react-native'
 import React, { FC } from 'react'
 import CustomSafeAreaScrollView from '../components/global/CustomSafeAreaViewScroll'
 
