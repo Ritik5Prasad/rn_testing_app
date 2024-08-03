@@ -23,7 +23,7 @@ const InputStyle = StyleSheet.create({
     paddingHorizontal: 20,
     fontFamily: FONTS.Regular,
     fontSize: RFValue(14),
-    color: Colors.text,
+    color: Colors.white,
     height: normalizeHeight(50),
   },
 

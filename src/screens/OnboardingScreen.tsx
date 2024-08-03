@@ -21,6 +21,7 @@ const OnBoardingScreen: FC = () => {
 
   return (
     <Swiper
+      testID="OnboardingScreen"
       ref={swiperRef}
       loop={false}
       showsPagination={true}
